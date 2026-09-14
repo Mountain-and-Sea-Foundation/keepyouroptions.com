@@ -43,22 +43,34 @@
   </main>
 
   <footer class="site-footer">
-    <span class="footer-tagline">{{ site.tagline }}</span>
-    <span class="footer-links">
-      <a href="{{ '/contact/' | relative_url }}">Contact</a>
-      <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
-      <a href="{{ '/feed.xml' | relative_url }}" class="footer-rss">RSS</a>
-      <a href="https://mountainandseafoundation.org">Mountain and Sea Foundation</a>
-      <a href="https://ourplanty.com">Our Planty</a>
-    </span>
-    <!--
-      Follow-us links — replace REPLACE_ME_* with your real profile URLs, or
-      delete any line for a platform you don't have.
-    -->
-    <span class="footer-social" aria-label="Follow us">
-      <a href="https://twitter.com/REPLACE_ME_HANDLE">X</a>
-      <a href="https://www.reddit.com/r/REPLACE_ME_SUBREDDIT">Reddit</a>
-    </span>
+    <div class="footer-affiliations" aria-label="A program of">
+      <span class="footer-affiliations-label">A program of</span>
+      <a href="https://mountainandseafoundation.org" class="footer-logo-link">
+        <img src="{{ '/assets/logos/mountain-and-sea-foundation.png' | relative_url }}" alt="" class="footer-logo" width="20" height="20">
+        <span>Mountain and Sea Foundation</span>
+      </a>
+      <a href="https://ourplanty.com" class="footer-logo-link">
+        <img src="{{ '/assets/logos/our-planty.svg' | relative_url }}" alt="" class="footer-logo" width="20" height="20">
+        <span>Our Planty</span>
+      </a>
+    </div>
+
+    <div class="footer-main">
+      <span class="footer-tagline">{{ site.tagline }}</span>
+      <span class="footer-links">
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+        <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
+        <a href="{{ '/feed.xml' | relative_url }}" class="footer-rss">RSS</a>
+      </span>
+      <!--
+        Follow-us links — replace REPLACE_ME_* with your real profile URLs, or
+        delete any line for a platform you don't have.
+      -->
+      <span class="footer-social" aria-label="Follow us">
+        <a href="https://twitter.com/REPLACE_ME_HANDLE">X</a>
+        <a href="https://www.reddit.com/r/REPLACE_ME_SUBREDDIT">Reddit</a>
+      </span>
+    </div>
   </footer>
 </body>
 </html>
