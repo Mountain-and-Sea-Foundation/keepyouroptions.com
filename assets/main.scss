@@ -11,6 +11,8 @@ $amber:        #b45309;   // muted gold/amber accent
 $amber-soft:   #d97706;
 $forest:       #2f5d3a;   // reserved for "call" tags
 $rust:         #9a3412;   // reserved for "put" tags
+$slate:        #475569;   // foundation contributor badge
+$sage:         #4d7c5f;   // planty contributor badge (distinct from $forest)
 
 // ── Type ───────────────────────────────────────────────────
 $font-display: "Newsreader", Georgia, serif;
@@ -219,6 +221,45 @@ textarea:focus-visible {
 
   &.post-tag-call { color: $forest; border-color: rgba($forest, 0.35); }
   &.post-tag-put  { color: $rust;   border-color: rgba($rust, 0.35); }
+}
+
+.post-byline {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  margin: -0.75rem 0 2rem;
+  font-family: $font-mono;
+  font-size: 0.8rem;
+}
+
+.byline-name {
+  color: $ink;
+  font-weight: 500;
+}
+
+.byline-bio {
+  color: $ink-soft;
+}
+
+.byline-badge {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-radius: 3px;
+  padding: 0.2rem 0.5rem;
+  white-space: nowrap;
+
+  &.byline-badge-foundation { color: $slate; border: 1px solid rgba($slate, 0.35); }
+  &.byline-badge-planty    { color: $sage;  border: 1px solid rgba($sage, 0.35); }
+}
+
+.byline-link {
+  color: $ink-soft;
+  text-decoration: underline;
+  text-decoration-color: rgba($ink-soft, 0.35);
+
+  &:hover { color: $amber; }
 }
 
 .post-title {
