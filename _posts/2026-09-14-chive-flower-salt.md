@@ -18,7 +18,7 @@ That's the other kind of patience this blog is named for. Not every post here is
 **What you'll need**
 
 - 1 cup fresh chive blossoms, gently washed and patted completely dry
-- 2 to 3 tablespoons coarse sea salt or flaky salt
+- 2 to 3 teaspoons coarse sea salt or flaky salt
 
 **How to make it**
 
