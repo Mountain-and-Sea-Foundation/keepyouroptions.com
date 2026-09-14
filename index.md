@@ -3,4 +3,4 @@ layout: home
 title: Keep Your Options Open.
 ---
 
-Keep Your Options Open is a running record of what I'm learning about investment options — calls, puts, strategies, and the mistakes along the way.
+A blog by our founder on investing and gardening (two different kinds of patience, one philosophy). Come join with us to share your thoughts.
