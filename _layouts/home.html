@@ -15,6 +15,12 @@ layout: default
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time>
       </span>
       <span class="ledger-title">{{ post.title }}</span>
+      {% assign contributor = site.data.authors[post.author] %}
+      {% if contributor and contributor.affiliation == "foundation" %}
+      <span class="byline-badge byline-badge-foundation">Foundation</span>
+      {% elsif contributor and contributor.affiliation == "planty" %}
+      <span class="byline-badge byline-badge-planty">Planty</span>
+      {% endif %}
       {% if post.categories.size > 0 %}
       <span class="ledger-tag">{{ post.categories | first }}</span>
       {% endif %}
