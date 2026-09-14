@@ -1,0 +1,27 @@
+# Contributor registry for Keep Your Options Open.
+# A program of Mountain and Sea Foundation.
+#
+# Add one entry per contributor. Reference in a post's front matter with:
+#   author: jordan
+#
+# affiliation values: self | foundation | planty
+# - self:       the founding author (no badge shown)
+# - foundation: Mountain and Sea Foundation board/staff contributor
+# - planty:     Our Planty community contributor
+
+alice:
+  name: "Alice"
+  affiliation: self
+
+# Example entries — replace with real contributors as they're added.
+# jordan:
+#   name: "Jordan Reyes"
+#   bio: "Board member, Mountain and Sea Foundation"
+#   affiliation: foundation
+#   link: https://mountainandseafoundation.org
+#
+# maria:
+#   name: "Maria Chen"
+#   bio: "Our Planty community member, urban container gardening"
+#   affiliation: planty
+#   link: https://ourplanty.com
