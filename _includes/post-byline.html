@@ -1,0 +1,17 @@
+{% if page.author %}
+  {% assign contributor = site.data.authors[page.author] %}
+  {% if contributor and contributor.affiliation != "self" %}
+  <div class="post-byline">
+    <span class="byline-name">{{ contributor.name }}</span>
+    {% if contributor.bio %}<span class="byline-bio">{{ contributor.bio }}</span>{% endif %}
+    {% if contributor.affiliation == "foundation" %}
+      <span class="byline-badge byline-badge-foundation">Mountain and Sea Foundation</span>
+    {% elsif contributor.affiliation == "planty" %}
+      <span class="byline-badge byline-badge-planty">Our Planty Community</span>
+    {% endif %}
+    {% if contributor.link %}
+      <a class="byline-link" href="{{ contributor.link }}">{{ contributor.link | remove: "https://" | remove: "http://" }}</a>
+    {% endif %}
+  </div>
+  {% endif %}
+{% endif %}
