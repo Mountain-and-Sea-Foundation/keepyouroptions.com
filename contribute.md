@@ -6,7 +6,7 @@ permalink: /contribute/
 
 # Write for Us
 
-Keep Your Options Open is a Mountain and Sea Foundation program on financial literacy for growers. We publish guest posts from foundation board members and Our Planty community members who have a story, a lesson, or a strategy worth sharing.
+Keep Your Options Open is a Mountain and Sea Foundation program on financial literacy for growers. We publish guest posts from foundation board members, foundation friends, and Our Planty community members who have a story, a lesson, or a strategy worth sharing.
 
 ## What we're looking for
 
@@ -35,7 +35,7 @@ Every guest post is published with your name and a one-line bio, plus a badge no
 **Email a draft or a pitch.** Send it to `hello@keepyouroptions.com` with a subject line like "Guest post: [your idea]." Include:
 
 - Your name and how you'd like your bio to read
-- Your affiliation (foundation board, or Our Planty, and how)
+- Your affiliation (foundation board, foundation friend, or Our Planty, and how)
 - A draft, or a two or three sentence pitch if you'd like to talk it through first
 
 If you're comfortable with GitHub, you're also welcome to open a pull request directly against the site's repository with your post as a markdown file. Either route works, use whichever is easier for you.
