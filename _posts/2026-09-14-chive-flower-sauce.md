@@ -28,7 +28,7 @@ Snip off the tough green stems and pull the individual florets apart from each h
 
 Place the blossoms and salt into a small food processor, or work them by hand with a mortar and pestle if you'd rather.
 
-Pulse just until the flowers break down and coat themselves in the salt, forming a bright pinkish-purple paste. Stop before it turns into a runny liquid. This part goes faster than you'd expect.
+Pulse just until the flowers break down forming a bright green paste. Stop before it turns into a runny liquid. This part goes faster than you'd expect if you use a food processor.
 
 Transfer the paste to a clean glass jar and seal it. Keep it in the refrigerator; it's good to eat right away as a fresh condiment, and the flavor will deepen and mellow over the next several days as it cures.
 
