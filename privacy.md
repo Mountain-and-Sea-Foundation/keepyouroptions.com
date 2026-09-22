@@ -73,6 +73,9 @@ Comments and shared reader experiences reflect individual opinions, not vetted o
 financial advice, and shouldn't be relied on as a substitute for your own research or a
 licensed professional's guidance.
 
+See the full [Disclaimer]({{ '/disclaimer/' | relative_url }}) page for the site's complete
+terms of use.
+
 ## Changes to this policy
 
 If what this site collects or how it's used changes, this page will be updated and the "Last
