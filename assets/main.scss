@@ -597,3 +597,15 @@ textarea:focus-visible {
 
   a:hover { color: $amber; }
 }
+
+.footer-disclaimer {
+  padding-top: 1rem;
+  border-top: 1px solid $paper-line;
+  font-size: 0.7rem;
+  line-height: 1.5;
+  color: $ink-soft;
+  opacity: 0.8;
+
+  a { text-decoration: underline; }
+  a:hover { color: $amber; }
+}
