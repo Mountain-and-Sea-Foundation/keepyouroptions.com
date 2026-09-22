@@ -28,7 +28,7 @@ Keep Your Options Open is a Mountain and Sea Foundation program on financial lit
 
 ## Byline and disclosure
 
-Every guest post is published with your name and a one-line bio, plus a badge noting your affiliation (Mountain and Sea Foundation or Our Planty Community) so readers know who's writing. If you'd like to link to your own site or the Our Planty profile, include that with your pitch.
+Every guest post is published with your name and a one-line bio, plus an affiliation label (Mountain and Sea Foundation or Our Planty Community) so readers know who's writing. If you'd like to link to your own site or the Our Planty profile, include that with your pitch.
 
 ## How to submit
 

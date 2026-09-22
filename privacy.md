@@ -8,9 +8,10 @@ permalink: /privacy/
 
 _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 
-Keep Your Options Open ("this site," "we," "us") is a personal blog about options-trading
-education. This policy explains what information is collected when you visit and how it's
-used.
+Keep Your Options Open ("this site," "we," "us") is a financial literacy blog covering
+investing and gardening, published as a program of Mountain and Sea Foundation, a private
+operating foundation, in partnership with Our Planty. This policy explains what information
+is collected when you visit and how it's used.
 
 ## What we collect
 
@@ -42,10 +43,16 @@ as well as on this site. Comment data is governed by
 in addition to this one. We don't moderate emails or personal data through comments — only
 what you choose to post publicly.
 
-**No newsletter or account system.** Beyond the contact form and comments above, the site
-does not have a login system or newsletter signup, so we don't collect any other personal
-information directly from visitors. If that changes, this policy will be updated before the
-feature goes live.
+**Guest contributors.** This site publishes occasional guest posts from Mountain and Sea
+Foundation board members, foundation friends, and Our Planty community members (see
+[Write for Us]({{ '/contribute/' | relative_url }})). If you contribute a post, the name,
+short bio, affiliation label, and any link you provide are published on the site alongside
+your post as a byline. We don't collect anything beyond what you choose to include in that
+byline.
+
+**No account system.** Beyond the newsletter, contact form, and comments above, the site
+does not have a login system, so we don't collect any other personal information directly
+from visitors. If that changes, this policy will be updated before the feature goes live.
 
 ## Cookies
 
