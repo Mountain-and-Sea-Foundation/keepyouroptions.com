@@ -10,8 +10,8 @@ _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 
 Keep Your Options Open ("this site," "we," "us") is a financial literacy blog covering
 investing and gardening, published as a program of Mountain and Sea Foundation, a private
-operating foundation, in partnership with Our Planty. This policy explains what information
-is collected when you visit and how it's used.
+operating foundation that also runs Our Planty, its gardening community platform. This
+policy explains what information is collected when you visit and how it's used.
 
 ## What we collect
 
