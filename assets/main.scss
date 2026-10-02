@@ -503,7 +503,8 @@ textarea:focus-visible {
 }
 
 // ── Newsletter (homepage) ───────────────────────────────────
-.home-newsletter {
+.home-newsletter,
+.post-newsletter {
   margin-top: 2.5rem;
   padding-top: 2rem;
   border-top: 1px solid $paper-line;
@@ -518,6 +519,17 @@ textarea:focus-visible {
     .contact-privacy-note { flex-basis: 100%; margin-top: 0.5rem; }
   }
 }
+
+.post-newsletter .newsletter-heading {
+  font-family: $font-mono;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: $ink;
+  margin: 0 0 0.75rem;
+}
+
+.newsletter-archive-link { margin-top: 0.75rem; }
 
 // ── Footer ─────────────────────────────────────────────────
 .site-footer {
